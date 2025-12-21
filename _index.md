@@ -1,6 +1,7 @@
 # Hello World!
 # My interests
 learning to use github
+# My blog
 <ul>
   {% for post in site.posts %}
 <li>
