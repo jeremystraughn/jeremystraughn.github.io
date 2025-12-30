@@ -1,7 +1,11 @@
-# Hello World!
-# My interests
+# Hi, I'm jeremystraughn
+## Things
+### My interests
+<ul>
 learning to use github
-# My blog
+</ul>
+
+### My blog
 <ul>
 {% for post in site.posts %}
 <li>
