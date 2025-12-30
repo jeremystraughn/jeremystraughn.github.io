@@ -2,8 +2,10 @@
 ## Things
 ### My interests
 <ul>
+  <li>
 learning to use github
 </ul>
+</li>
 
 ### My blog
 <ul>
