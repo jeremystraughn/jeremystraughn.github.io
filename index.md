@@ -10,6 +10,7 @@ learning to use github
 </ul>
 
 ### My blog
+This blog chronicles my epic journey through github.  It will have at least one post, possibly two.
 <ul>
 {% for post in site.posts %}
 <li>
