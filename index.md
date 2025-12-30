@@ -1,8 +1,10 @@
 # Hi, I'm jeremystraughn
+
 ## Things
+
 ### My interests
 <ul>
-  <li>
+<li>
 learning to use github
 </li>
 </ul>
