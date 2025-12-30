@@ -9,6 +9,12 @@ learning to use github
 </li>
 </ul>
 
+### My sites
+<ul>
+  <li><a href="https://jeremystraughn.wordpress.com/">Wordpress</a></li>
+  <li><a href="https://www.linkedin.com/in/jeremy-brooke-straughn-54931513/">LinkedIn</a></li>
+</ul>
+
 ### My blog
 This blog chronicles my epic journey through github.  It will have at least one post, possibly two.
 <ul>
@@ -17,10 +23,4 @@ This blog chronicles my epic journey through github.  It will have at least one 
 <a href="{{ https://github.com/jeremystraughn/jeremystraughn.github.io/blob/main/_posts/2025-12-20-first-post.md }}">{{ 1st-blog-post }}</a>
 </li>
 {% endfor %}
-</ul>
-
-### My sites
-<ul>
-  <li><a href="https://jeremystraughn.wordpress.com/">Wordpress</a></li>
-  <li><a href="https://www.linkedin.com/in/jeremy-brooke-straughn-54931513/">LinkedIn</a></li>
 </ul>
